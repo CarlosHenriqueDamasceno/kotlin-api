@@ -1,0 +1,1 @@
+INSERT INTO List (id, name) VALUES (1, 'TODO');
