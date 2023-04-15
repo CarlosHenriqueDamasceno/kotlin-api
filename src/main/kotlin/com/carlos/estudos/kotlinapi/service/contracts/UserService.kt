@@ -7,6 +7,6 @@ interface UserService {
     fun find(id: Long): UserOutputDto
     fun getAll(): List<UserOutputDto>
     fun create(data: UserInputDto): UserOutputDto
-    fun update(data: UserInputDto): UserOutputDto
+    fun update(id: Long, data: UserInputDto): UserOutputDto
     fun delete(id: Long)
 }
