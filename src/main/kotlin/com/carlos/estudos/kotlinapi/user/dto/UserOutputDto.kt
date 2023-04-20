@@ -1,6 +1,6 @@
-package com.carlos.estudos.kotlinapi.dto
+package com.carlos.estudos.kotlinapi.user.dto
 
-import com.carlos.estudos.kotlinapi.entity.User
+import com.carlos.estudos.kotlinapi.user.User
 
 data class UserOutputDto(val id: Long, val name: String, val balance: Float) {
     companion object {

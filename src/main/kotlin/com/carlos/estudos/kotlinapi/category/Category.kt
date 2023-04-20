@@ -1,5 +1,8 @@
-package com.carlos.estudos.kotlinapi.entity
+package com.carlos.estudos.kotlinapi.category
 
+import com.carlos.estudos.kotlinapi.financialPosting.FinancialPosting
+import com.carlos.estudos.kotlinapi.financialPostingType.FinancialPostingType
+import com.carlos.estudos.kotlinapi.user.User
 import jakarta.persistence.*
 
 @Entity

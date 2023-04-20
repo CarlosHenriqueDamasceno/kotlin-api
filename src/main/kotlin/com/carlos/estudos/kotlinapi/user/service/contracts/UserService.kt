@@ -1,7 +1,7 @@
-package com.carlos.estudos.kotlinapi.service.contracts
+package com.carlos.estudos.kotlinapi.user.service.contracts
 
-import com.carlos.estudos.kotlinapi.dto.UserInputDto
-import com.carlos.estudos.kotlinapi.dto.UserOutputDto
+import com.carlos.estudos.kotlinapi.user.dto.UserInputDto
+import com.carlos.estudos.kotlinapi.user.dto.UserOutputDto
 
 interface UserService {
     fun find(id: Long): UserOutputDto

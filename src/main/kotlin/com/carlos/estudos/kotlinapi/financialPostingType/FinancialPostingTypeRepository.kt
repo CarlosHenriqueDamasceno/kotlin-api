@@ -1,6 +1,5 @@
-package com.carlos.estudos.kotlinapi.repository
+package com.carlos.estudos.kotlinapi.financialPostingType
 
-import com.carlos.estudos.kotlinapi.entity.FinancialPostingType
 import org.springframework.data.jpa.repository.JpaRepository
 
 interface FinancialPostingTypeRepository : JpaRepository<FinancialPostingType, Long>

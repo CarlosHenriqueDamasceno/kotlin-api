@@ -1,6 +1,5 @@
-package com.carlos.estudos.kotlinapi.repository
+package com.carlos.estudos.kotlinapi.category
 
-import com.carlos.estudos.kotlinapi.entity.Category
 import org.springframework.data.jpa.repository.JpaRepository
 
 interface CategoryRepository : JpaRepository<Category, Long>

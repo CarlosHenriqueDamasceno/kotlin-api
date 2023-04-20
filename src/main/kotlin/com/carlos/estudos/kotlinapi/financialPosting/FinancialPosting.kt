@@ -1,5 +1,6 @@
-package com.carlos.estudos.kotlinapi.entity
+package com.carlos.estudos.kotlinapi.financialPosting
 
+import com.carlos.estudos.kotlinapi.category.Category
 import jakarta.persistence.*
 import java.time.LocalDateTime
 
