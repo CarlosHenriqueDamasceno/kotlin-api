@@ -1,4 +1,4 @@
-package com.carlos.estudos.kotlinapi.user.service.contracts
+package com.carlos.estudos.kotlinapi.user
 
 import com.carlos.estudos.kotlinapi.user.dto.UserInputDto
 import com.carlos.estudos.kotlinapi.user.dto.UserOutputDto

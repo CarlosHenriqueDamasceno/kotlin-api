@@ -1,10 +1,7 @@
-package com.carlos.estudos.kotlinapi.user.service
+package com.carlos.estudos.kotlinapi.user
 
-import com.carlos.estudos.kotlinapi.user.User
-import com.carlos.estudos.kotlinapi.user.UserRepository
 import com.carlos.estudos.kotlinapi.user.dto.UserInputDto
 import com.carlos.estudos.kotlinapi.user.dto.UserOutputDto
-import com.carlos.estudos.kotlinapi.user.service.contracts.UserService
 import org.springframework.stereotype.Service
 
 @Service

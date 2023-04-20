@@ -2,7 +2,6 @@ package com.carlos.estudos.kotlinapi.user
 
 import com.carlos.estudos.kotlinapi.user.dto.UserInputDto
 import com.carlos.estudos.kotlinapi.user.dto.UserOutputDto
-import com.carlos.estudos.kotlinapi.user.service.contracts.UserService
 import org.springframework.web.bind.annotation.*
 
 @RestController
